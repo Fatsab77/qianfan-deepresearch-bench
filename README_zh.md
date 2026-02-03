@@ -16,8 +16,10 @@
 
 | Rank | Model | Overall | Comprehensiveness | Insight | Instruction Following | Readability |
 |:----:|-------|:-------:|:----:|:-------:|:--:|:----:|
-| 1 | **Qianfan-DeepResearch Pro** | **54.48** | **55.21** | **56.47** | **52.35** | **52.02** |
-| 2 | **Qianfan-DeepResearch** | <u>53.07</u> | 52.65 | <u>55.44</u> | 51.61 | 51.21 |
+| 1 | **Qianfan-DeepResearch Pro $\dag$** | **54.48** | **55.21** | **56.47** | **52.35** | **52.02** |
+| - | Qianfan-DeepResearch Pro [Leaderboard] | 54.22 | 55.07 | 56.09 | 51.77 | 52.12 |
+| 2 | **Qianfan-DeepResearch $\dag$** | <u>53.07</u> | 52.65 | <u>55.44</u> | 51.61 | 51.21 |
+| - | Qianfan-DeepResearch [Leaderboard] | 53.02 | 52.33 | 55.63 | 51.24 | 51.39 |
 | 3 | Tavily Research | 52.44 | 52.84 | 53.59 | 51.92 | 49.21 |
 | 4 | ThinkDepth.ai | 52.43 | 52.02 | 53.88 | 52.04 | 50.12 |
 | 5 | Cellcog | 51.94 | 52.17 | 51.90 | 51.37 | 51.94 |
@@ -34,7 +36,7 @@
 
 *备注2*：标有星号`*`的模型代表 DeepResearch Bench 论文复现的结果，并不代表相关公司向排行榜提交了测试结果。
 
-*备注3*：我们基于多次评估的Overall得分中位数，汇报 **Qianfan-DeepResearch Pro** 和 **Qianfan-DeepResearch** 的性能表现。
+$\dag$：我们基于多次评估的Overall得分中位数，汇报 **Qianfan-DeepResearch Pro** 和 **Qianfan-DeepResearch** 的性能表现。
 
 </small>
 

@@ -14,11 +14,12 @@ This repository contains the official evaluation results of Qianfan-DeepResearch
 
 The results demonstrate **Qianfan-DeepResearch**'s overall score and performance across four key dimensions in the **DeepResearch Bench** evaluation:
 
-
 | Rank | Model | Overall | Comprehensiveness | Insight | Instruction Following | Readability |
 |:----:|-------|:-------:|:----:|:-------:|:--:|:----:|
-| 1 | **Qianfan-DeepResearch Pro** | **54.48** | **55.21** | **56.47** | **52.35** | **52.02** |
-| 2 | **Qianfan-DeepResearch** | <u>53.07</u> | 52.65 | <u>55.44</u> | 51.61 | 51.21 |
+| 1 | **Qianfan-DeepResearch Pro $\dag$** | **54.48** | **55.21** | **56.47** | **52.35** | **52.02** |
+| - | Qianfan-DeepResearch Pro [Leaderboard] | 54.22 | 55.07 | 56.09 | 51.77 | 52.12 |
+| 2 | **Qianfan-DeepResearch $\dag$** | <u>53.07</u> | 52.65 | <u>55.44</u> | 51.61 | 51.21 |
+| - | Qianfan-DeepResearch [Leaderboard] | 53.02 | 52.33 | 55.63 | 51.24 | 51.39 |
 | 3 | Tavily Research | 52.44 | 52.84 | 53.59 | 51.92 | 49.21 |
 | 4 | ThinkDepth.ai | 52.43 | 52.02 | 53.88 | 52.04 | 50.12 |
 | 5 | Cellcog | 51.94 | 52.17 | 51.90 | 51.37 | 51.94 |
@@ -35,7 +36,7 @@ The results demonstrate **Qianfan-DeepResearch**'s overall score and performance
 
 *Note2*: Models marked with an `*` represent results reproduced by the DeepResearch Bench paper and do not imply that the respective companies submitted these results to the leaderboard.
 
-*Note3*: We report the performance of **Qianfan-DeepResearch Pro** and **Qianfan-DeepResearch** based on their median overall scores accross multiple runs.
+$\dag$: We report the performance of **Qianfan-DeepResearch Pro** and **Qianfan-DeepResearch** based on their median overall scores accross multiple runs.
 
 </small>
 
