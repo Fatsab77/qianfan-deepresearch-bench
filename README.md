@@ -16,27 +16,27 @@ The results demonstrate **Qianfan-DeepResearch**'s overall score and performance
 
 | Rank | Model | Overall | Comprehensiveness | Insight | Instruction Following | Readability |
 |:----:|-------|:-------:|:----:|:-------:|:--:|:----:|
-| 1 | **Qianfan-DeepResearch Pro $\dag$** | **54.48** | **55.21** | **56.47** | **52.35** | **52.02** |
+| 1 | **Qianfan-DeepResearch Pro<sup>†</sup>** | **54.48** | **55.21** | **56.47** | **52.35** | **52.02** |
 | - | Qianfan-DeepResearch Pro [Leaderboard] | 54.22 | 55.07 | 56.09 | 51.77 | 52.12 |
-| 2 | **Qianfan-DeepResearch $\dag$** | <u>53.07</u> | 52.65 | <u>55.44</u> | 51.61 | 51.21 |
+| 2 | **Qianfan-DeepResearch<sup>†</sup>** | <u>53.07</u> | 52.65 | <u>55.44</u> | 51.61 | 51.21 |
 | - | Qianfan-DeepResearch [Leaderboard] | 53.02 | 52.33 | 55.63 | 51.24 | 51.39 |
 | 3 | Tavily Research | 52.44 | 52.84 | 53.59 | 51.92 | 49.21 |
 | 4 | ThinkDepth.ai | 52.43 | 52.02 | 53.88 | 52.04 | 50.12 |
 | 5 | Cellcog | 51.94 | 52.17 | 51.90 | 51.37 | 51.94 |
 | 6 | Salesforce AIR | 50.65 | 50.00 | 51.09 | 50.77 | 50.32 |
 | 7 | LangChain Open Deep Research GPT-5 with Gensee Search | 50.60 | 50.06 | 50.76 | 51.31 | 49.72 |
-| 8 | Gemini 2.5 Pro DeepResearch* | 49.71 | 49.51 | 49.45 | 50.12 | 50.00 |
+| 8 | Gemini 2.5 Pro DeepResearch<sup>\*</sup> | 49.71 | 49.51 | 49.45 | 50.12 | 50.00 |
 | 9 | LangChain Open Deep Research GPT-5 with Travily | 49.33 | 49.80 | 47.34 | 51.05 | 48.99 |
-| 10 | OpenAI DeepResearch* | 46.45 | 46.46 | 43.73 | 49.39 | 47.22 |
-| 11 | Claude Research* | 45.00 | 45.34 | 42.79 | 47.58 | 44.66 |
+| 10 | OpenAI DeepResearch<sup>\*</sup> | 46.45 | 46.46 | 43.73 | 49.39 | 47.22 |
+| 11 | Claude Research<sup>\*</sup> | 45.00 | 45.34 | 42.79 | 47.58 | 44.66 |
 
 <small> 
 
-*Note1*: We show the score in **bold** if our system achieves the best performance, and in <u>underline</u> if it is the second best. 
+*Note*: We show the score in **bold** if our system achieves the best performance, and in <u>underline</u> if it is the second best. 
 
-*Note2*: Models marked with an `*` represent results reproduced by the DeepResearch Bench paper and do not imply that the respective companies submitted these results to the leaderboard.
+\*: Models marked with an \* represent results reproduced by the DeepResearch Bench paper and do not imply that the respective companies submitted these results to the leaderboard.
 
-$\dag$: We report the performance of **Qianfan-DeepResearch Pro** and **Qianfan-DeepResearch** based on their median overall scores accross multiple runs.
+†: We report the performance of **Qianfan-DeepResearch Pro** and **Qianfan-DeepResearch** based on their median overall scores accross multiple runs.
 
 </small>
 
